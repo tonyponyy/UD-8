@@ -1,0 +1,14 @@
+#imagenpeque{
+  display: flex;
+}
+
+#imagenpeque img{
+  width: 100px;
+  margin-left:12px;
+  
+}
+
+#fotogrande{
+  width: 300px;
+  height: 400px;
+}
